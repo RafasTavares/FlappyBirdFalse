@@ -1,0 +1,21 @@
+{
+  "name": "Flappy Bird False",
+  "description": "Game Imitação do Flappy Bird",
+  "launch_path": "/index.html",
+  "developer": {
+		"name": "Rafael Tavares Andrade",
+		"url": "http://rafaeltavares.co"
+	},
+  "icons": {
+    "16": "/icon-16.png",
+    "32": "/icon-32.png",
+    "128": "/icon-128.png"
+  },
+  "fullscreen": "true",
+    "default_locale": "pt-BR",
+    "orientation": ["portrait", "landscape-secondary"],
+    "permissions": {
+    },
+    "installs_allowed_from": ["*"],
+"version": "1.0"
+}
